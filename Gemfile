@@ -4,4 +4,3 @@ gemspec
 
 gem 'rake'
 gem 'prawn'
-gem 'test-unit-rr'
