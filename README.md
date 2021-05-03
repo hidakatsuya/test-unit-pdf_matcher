@@ -37,7 +37,7 @@ require 'test/unit/pdf_matcher`
 ```ruby
 assert_match_pdf pdf1_data, pdf2_data
 assert_match_pdf '/path/to/1.pdf', '/path/to/2.pdf'
-assert_match_pdf Pathnae('/path/to/1.pdf'), Pathname('/path/to/2.pdf')
+assert_match_pdf Pathname('/path/to/1.pdf'), Pathname('/path/to/2.pdf')
 ```
 
 You can generate a difference PDF by `output_diff_path` option:
