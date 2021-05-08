@@ -1,8 +1,10 @@
 # Test::Unit::PdfMatcher
 
-[![Test](https://github.com/hidakatsuya/test-unit-pdf_matcher/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/hidakatsuya/test-unit-pdf_matcher/actions/workflows/test.yml)
-
 This gem provides `assert_match_pdf` assertion by [PdfMatcher](https://github.com/hidakatsuya/pdf_matcher) to Test::Unit.
+
+## ⚠️ DEPRECATED
+
+This gem is no longer maintained. Please use [pdf_matcher-testing](https://github.com/hidakatsuya/pdf_matcher-testing) instead.
 
 ## Prerequisites
 
